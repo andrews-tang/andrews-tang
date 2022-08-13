@@ -2,7 +2,7 @@
 - :zap: A computer engineering student at KNUST, Kumasi campus, Ghana.
 - 👀 I’m interested in **Machine Learning**:roll_eyes:.
 - 🌱 I’m currently learning **Neural Networks** and **Reinforcement Learning** with Python.
-- 💞️ I’m looking forward to study Machine Learning for my MBA.
+- :earth_americas: I’m looking forward to study Machine Learning for my MBA.
 <!-- - 📫 How to reach me :  -->
 
 <!---
