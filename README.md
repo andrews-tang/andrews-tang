@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Andrews Tang.
+- ![image](https://user-images.githubusercontent.com/75391005/184497332-038b8594-5958-4ef2-b628-c8b2a9daf7b1.png)
+
 -  A computer engineering student at KNUST, Kumasi campus.
 - 👀 I’m interested in Machine Learning and has the alacrity to study it for my Masters.
 - 🌱 I’m currently learning Neural Networks and Reinforcement Learning
