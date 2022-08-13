@@ -1,10 +1,10 @@
 **👋 Hi, I’m Andrews Tang.**
 - :zap: A computer engineering student at KNUST, Kumasi campus, Ghana.
-- :blue_heart:I'm in love with Spotify, Barcelona footbal, Checkers and sometimes Chess.
-- :umbrella::umbrella:**Deepmind** is my sky limit:umbrella::umbrella:
-- 👀 I’m interested in **Machine Learning** and has the alacrity to study it for my **Masters**.
+- :blue_heart:Loves Spotify and Checkers.
+- :umbrella::umbrella:**Deepmind** is my sky limit:umbrella::umbrella:.
+- 👀 I’m interested in **Machine Learning**:roll_eyes:.
 - 🌱 I’m currently learning **Neural Networks** and **Reinforcement Learning** with Python.
-<!-- - 💞️ I’m looking forward to apply ML in the Health Industry -->
+- 💞️ I’m looking forward to study Machine Learning for my MBA.
 <!-- - 📫 How to reach me :  -->
 
 <!---
