@@ -1,8 +1,7 @@
 **👋 Hi, I’m Andrews Tang.**
 - :zap: A computer engineering student at KNUST, Kumasi campus, Ghana.
 - 👀 I’m interested in **Machine Learning**:roll_eyes:.
-- 🌱 I’m currently learning **Neural Networks** and **Reinforcement Learning** with Python.
-- :earth_americas: I’m looking forward to study Machine Learning for my MBA.
+- 🌱 I’m currently learning **Neural Networks** and **Reinforcement Learning** using Python.
 <!-- - 📫 How to reach me :  -->
 
 <!---
