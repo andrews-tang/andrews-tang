@@ -1,6 +1,6 @@
 **👋 Hi, I’m Andrews Tang.**
 - :zap: A Computer Engineering graduate at KNUST, Kumasi campus, Ghana.
-- 👀 I’m research areas are **Deep learning**, **Computer Vision**, **Machine Learning Theory**:roll_eyes:.
+- 👀 My research interests are **Deep Learning**, **Computer Vision**, and **Machine Learning Theory**.
 - 🌱 And I use **PyTorch** for my most of my implementations.
 <!-- - 📫 How to reach me :  -->
 
